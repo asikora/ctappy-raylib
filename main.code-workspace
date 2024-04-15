@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"raylib.h": "c",
+			"math.h": "c",
+			"blocks.h": "c",
+			"stdio.h": "c",
+			"*.m": "c",
+			"raymath.h": "c",
+			"raygui.h": "c",
+			"spike_internal.h": "c",
+			"spikes.h": "c",
+			"player.h": "c",
+			"spike.h": "c",
+			"stdlib.h": "c",
+			"game_state.h": "c"
+		},
+		"cSpell.language": "en,en-GB"
+	}
+}
