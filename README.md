@@ -19,6 +19,10 @@ Keyboard:
  - Space to jump / select in menu
  - UP/DOWN to change selection in menu
 
+ ### How to play
+
+Download windows binaries from [releases](https://github.com/asikora/ctappy-raylib/releases). 
+
 ### How to compile 
 
 Clone the repo and open the workspace in VS Code. Alternatively use makefile to compile. 
